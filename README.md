@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ZARazor91
 - 👀 I’m interested in gaming, coding and IT in general.
-- 🌱 I’m currently learning hacking over at TryHackMe.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on here, on Discord (ZARazor91#0945) or Twitter.
 
 <!---
