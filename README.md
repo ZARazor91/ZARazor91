@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZARazor91
+- 👋 Hi, I’m @ZARazor91, 32 years from Berlin.
 - 👀 I’m interested in gaming, coding and IT in general.
 - 📫 You can reach me on here, on Discord or Twitter.
 
